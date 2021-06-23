@@ -1,6 +1,6 @@
 package Employee_Wage_Computation;
 
-public interface Wages_For_A_Month {
+public interface WagesForAMonth {
 	public static final int IS_PART_TIME = 1;
 	public static final int IS_FULL_TIME = 2;
 	public static final int Wage_per_hour = 20;

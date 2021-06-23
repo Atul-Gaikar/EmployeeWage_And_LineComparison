@@ -1,6 +1,6 @@
 package Employee_Wage_Computation;
 
-public class Daily_Employee_Wage {
+public class DailyEmployeeWage {
 
 	public static void main(String[] args) {
 		System.out.println("welcome to employee wage");

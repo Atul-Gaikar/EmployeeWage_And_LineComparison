@@ -1,6 +1,6 @@
 package Employee_Wage_Computation;
 
-public class Total_Wage_For_Each_Company {
+public class TotalWageForEachCompany {
 
 	public static final int IS_PART_TIME = 1;
 	public final int IS_FULL_TIME = 2;
@@ -11,7 +11,7 @@ public class Total_Wage_For_Each_Company {
 	private final int maxHoursPerMonth;
 	private int totalEmpWage;
 
-	public Total_Wage_For_Each_Company(String company, int empRatePerHour, int numOfWorkingDays, int maxHoursPerMonth) {
+	public TotalWageForEachCompany(String company, int empRatePerHour, int numOfWorkingDays, int maxHoursPerMonth) {
 		this.company = company;
 		this.empRatePerHour = empRatePerHour;
 		this.numOfWorkingDays = numOfWorkingDays;
@@ -48,8 +48,8 @@ public class Total_Wage_For_Each_Company {
 	}
 
 	public static void main(String[] args) {
-		Total_Wage_For_Each_Company dMart = new Total_Wage_For_Each_Company("DMart", 20, 2, 10);
-		Total_Wage_For_Each_Company reliance = new Total_Wage_For_Each_Company("Reliance", 10, 4, 20);
+		TotalWageForEachCompany dMart = new TotalWageForEachCompany("DMart", 20, 2, 10);
+		TotalWageForEachCompany reliance = new TotalWageForEachCompany("Reliance", 10, 4, 20);
 		dMart.computeEmpWage();
 		System.out.println(dMart);
 		reliance.computeEmpWage();

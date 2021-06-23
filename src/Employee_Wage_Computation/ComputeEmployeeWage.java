@@ -1,6 +1,6 @@
 package Employee_Wage_Computation;
 
-public class Compute_Employee_Wage {
+public class ComputeEmployeeWage {
 	// Constant
 	public static final int IS_PART_TIME = 1;
 	public static final int IS_FULL_TIME = 2;

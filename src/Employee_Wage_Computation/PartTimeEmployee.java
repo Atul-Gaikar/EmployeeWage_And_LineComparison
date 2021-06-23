@@ -1,6 +1,6 @@
 package Employee_Wage_Computation;
 
-public class Part_Time_Employee {
+public class PartTimeEmployee {
 
 	public static void main(String[] args) {
 		System.out.println("welcome to employee wage");

@@ -1,6 +1,6 @@
 package Employee_Wage_Computation;
 
-public class Refactor_The_Code {
+public class RefactorTheCode {
 	// public static final in IS_PART_TIME = 1;
 	// public static final in IS_FULL_TIME = 2;
 	// public static final in Wage_per_hour = 20;
