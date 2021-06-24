@@ -1,4 +1,4 @@
-package Line_Comparison;
+package com.bridgelabz.LineComparison;
 
 import java.util.Scanner;
 

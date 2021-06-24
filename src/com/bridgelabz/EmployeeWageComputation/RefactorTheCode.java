@@ -1,4 +1,4 @@
-package Employee_Wage_Computation;
+package com.bridgelabz.EmployeeWageComputation;
 
 public class RefactorTheCode {
 	// public static final in IS_PART_TIME = 1;

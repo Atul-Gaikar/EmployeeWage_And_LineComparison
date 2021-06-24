@@ -1,4 +1,4 @@
-package Employee_Wage_Computation;
+package com.bridgelabz.EmployeeWageComputation;
 
 public class PartTimeEmployee {
 

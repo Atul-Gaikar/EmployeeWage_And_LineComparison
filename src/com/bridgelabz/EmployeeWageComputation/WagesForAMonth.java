@@ -1,4 +1,4 @@
-package Employee_Wage_Computation;
+package com.bridgelabz.EmployeeWageComputation;
 
 public interface WagesForAMonth {
 	public static final int IS_PART_TIME = 1;
